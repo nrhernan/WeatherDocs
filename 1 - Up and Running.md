@@ -1,6 +1,6 @@
 # Up and Running
 
-Create an API that can be queried for the weather forecast by zip code and deploy it
+Get everything installed and up and running and create the first API
 
 ## Install Go & Visual Studio code
 
